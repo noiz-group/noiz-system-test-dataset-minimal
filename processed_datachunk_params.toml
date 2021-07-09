@@ -1,0 +1,5 @@
+[ProcessedDatachunkParams]
+datachunk_params_id = 1
+qcone_config_id = 1
+spectral_whitening = "True"
+one_bit = "True"
