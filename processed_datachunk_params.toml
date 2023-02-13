@@ -6,3 +6,4 @@ one_bit = "True"
 filtering_low = 0.1
 filtering_high = 3
 filtering_order = 4
+epsilon = 0.001
