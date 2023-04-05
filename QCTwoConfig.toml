@@ -1,5 +1,5 @@
 [QCTwo]
-crosscorrelation_params_id = 1
+crosscorrelation_cartesian_params_id = 1
 null_treatment_policy = "pass"
 starttime = 2019-10-01
 endtime = 2019-11-01
